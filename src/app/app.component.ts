@@ -18,7 +18,7 @@ export class AppComponent {
     },
     {
       url: "https://upload.wikimedia.org/wikipedia/pt/a/ad/Witcher_wild_hunt.jpg",
-      description: "Game"
+      description: "Teste"
     }
   ]
 
